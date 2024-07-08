@@ -1,1 +1,1 @@
-Sitemap: https://INFO-526-SU24.github.io/project-01/sitemap.xml
+Sitemap: https://e7563389-a64d-4794-b385-f098fa0ab41d.netlify.app/sitemap.xml
